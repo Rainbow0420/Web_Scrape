@@ -1,3 +1,5 @@
+# Form Submit Sample
+
 # import json
 # from selenium import webdriver
 # from selenium.webdriver.common.keys import Keys
@@ -21,6 +23,8 @@
 # driver.implicitly_wait(10)
 
 # driver.get("https://profile.w3schools.com/")
+
+# Sample
 
 import mechanize
 import requests
