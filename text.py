@@ -1,3 +1,4 @@
+# Text Extract
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.stem.snowball import SnowballStemmer
