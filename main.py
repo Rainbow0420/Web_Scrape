@@ -17,7 +17,7 @@ soup = BeautifulSoup(r.data, 'lxml')
 print (soup.title)
 print (soup.title.text)
 print(builtwith.parse('http://authoraditiagarwal.com'))
-print(whois.whois('microsoft.com'))
+# print(whois.whois('microsoft.com'))
 
 # Sample 2
 response = urllib.request.urlopen('http://example.webscraping.com/places/default/view/India-102')
